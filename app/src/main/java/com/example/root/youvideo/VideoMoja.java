@@ -3,7 +3,7 @@ package com.example.root.youvideo;
 /**
  * Created by root on 21.05.15..
  */
-public class Video {
+public class VideoMoja {
 
     private String naslov;
     private String URL;

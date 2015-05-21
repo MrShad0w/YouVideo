@@ -1,2 +1,0 @@
-# YouVideo
-Android Application
