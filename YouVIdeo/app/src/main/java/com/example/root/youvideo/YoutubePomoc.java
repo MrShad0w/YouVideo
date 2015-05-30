@@ -61,7 +61,7 @@ public class YoutubePomoc {
                 VideoMoja artikl = new VideoMoja();
 
                 artikl.setNaslov(rezultat.getSnippet().getTitle());
-                artikl.setOpis(rezultat.getSnippet().getDescription().substring(0,100));
+                artikl.setOpis(rezultat.getSnippet().getDescription());
                 artikl.setURL(rezultat.getSnippet().getThumbnails().getDefault().getUrl());
                 artikl.setId(rezultat.getId().getVideoId());
                 artikli.add(artikl);
