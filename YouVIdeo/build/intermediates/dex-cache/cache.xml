@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-4115f701c06808dfeae04867b5dfb5049ce17a8f.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0-2e4ada2b2b29e684b002b04230cc33e453e7acb0.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-4517434c24519e6522365417e860c2b207afd004.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0-728e314f3670f82ed77f3684e24d43aa9eab057f.jar" />
+    </item>
+    <item
+        jar="/home/mrshadow/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d1523956b2ced0e97390c6bdf33cb4084098d6c1.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-ad43fcbdc84f005715a6849ad4df637188bf4fa1.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0-fa38dfd66bb561138967ac9e767b47086053d657.jar" />
+    </item>
+    <item
+        jar="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/classes-6fa9ed725ca159c2c6d406455797ffdb264aa9c3.jar" />
+    </item>
+    <item
+        jar="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/classes-004ec8cb26641c61770bb5dafe9c92ff098ef389.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0-870b93301d075ff9db87cc9c72713f288cf7e9e8.jar" />
+    </item>
+    <item
+        jar="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9c2c153089fc942a15d9ba3f5b434bbd82ae28a0.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-d6b5098fb70d59bbebb06cf1e98f3466ad896923.jar" />
+    </item>
+    <item
+        jar="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-a4852e9bb681598e2e1da673c75badaaa962b397.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-youtube/v3-rev137-1.20.0/ea73d4c89ca1e41f0af21c40bb787a5a3a134364/google-api-services-youtube-v3-rev137-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea73d4c89ca1e41f0af21c40bb787a5a3a134364">
+        <dex dex="/home/mrshadow/Desktop/CroApps/YouVIdeo/app/build/intermediates/pre-dexed/debug/google-api-services-youtube-v3-rev137-1.20.0-09e90d8b5098052c3ac2fe3b8e6b672ce34ecbe6.jar" />
+    </item>
+
+</items>
